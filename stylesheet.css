@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    color: white;
+    background-color: rgb(128, 49, 0);
+    font-size: 56px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#searchArea {
+    background-color: rgb(211, 211, 211);
+    height: 100%;
+}
